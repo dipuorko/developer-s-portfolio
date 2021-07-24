@@ -48,3 +48,16 @@ h1{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+#full-stack-experiance{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+}
+#junior-experiance{
+    border-left: 7px solid;
+    border-image: linear-gradient(green, yellow);
+    border-image-slice: 1;
+}
+footer p{
+    text-align:center;
+}
