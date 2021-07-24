@@ -36,3 +36,15 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experiance-item{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.experiance-item{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
